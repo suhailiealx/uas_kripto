@@ -13,3 +13,6 @@ python crypt.py [Nama File]
   
 Untuk menggabungkan kedua share : <br>
 python decrypt.py [Nama Share1] [Nama Share2]
+
+Untuk membuat sebuah share berdasarkan file original dan share lain : <br>
+python makeshare.py [Nama File Original] [Nama Share Input]
