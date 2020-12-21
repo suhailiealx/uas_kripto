@@ -1,7 +1,7 @@
 # IF4020 Kriptografi
 # Tugas Makalah Pengganti UAS
 
-Nama : Suhailie
+Nama : Suhailie <br>
 NIM  : 13517045
 
 Referensi : https://gist.github.com/deibit/ccc2b55ae9eab94392e4118c05aded52
